@@ -15,6 +15,7 @@ ul li{
 	text-decoration: none;
 	display: inline;
 	padding: 5px;
+	text-align: left;
 }
 
 li a{
